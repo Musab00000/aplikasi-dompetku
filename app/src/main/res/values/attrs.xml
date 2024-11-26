@@ -1,0 +1,11 @@
+<resources>
+    <declare-styleable name="ThemeCustomAttributes">
+        <attr name="colorCard" format="color" />
+        <attr name="colorOnCard" format="color" />
+        <attr name="colorButton" format="color" />
+        <attr name="colorOnButton" format="color" />
+        <attr name="colorFAB" format="color" />
+        <attr name="colorOnFAB" format="color" />
+        <attr name="colorBackground" format="color" />
+    </declare-styleable>
+</resources>

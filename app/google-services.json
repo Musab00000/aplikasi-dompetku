@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "791555193637",
+    "project_id": "hitungpengeluaran",
+    "storage_bucket": "hitungpengeluaran.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:791555193637:android:f377e3e4d4d0ecb0e738cc",
+        "android_client_info": {
+          "package_name": "com.azhar.hitungpengeluaran"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0ztRRUu2ukkzdbQ0EwA1LaVCN_0HA-Xw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

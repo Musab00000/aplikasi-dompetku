@@ -1,0 +1,42 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    android:background="?attr/colorBackground">
+
+    <TextView
+        android:id="@+id/tvPengaturan"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="16dp"
+        android:text="Pengaturan Aplikasi"
+        android:textColor="?attr/colorOnBackground"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:gravity="center" />
+
+    <Switch
+        android:id="@+id/switchDarkMode"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tvPengaturan"
+        android:layout_marginTop="32dp"
+        android:layout_centerHorizontal="true"
+        android:text="Mode Gelap"
+        android:textColor="?attr/colorOnBackground"
+        android:textSize="16sp"
+        android:thumbTint="?attr/colorPrimary"
+        android:trackTint="?attr/colorPrimaryVariant" />
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/btnLogout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/switchDarkMode"
+        android:layout_marginTop="32dp"
+        android:text="Logout"
+        android:textSize="16sp"
+        android:backgroundTint="?attr/colorButton"
+        android:textColor="?attr/colorOnButton" />
+</RelativeLayout>

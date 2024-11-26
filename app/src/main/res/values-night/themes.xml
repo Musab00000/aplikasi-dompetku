@@ -1,0 +1,28 @@
+<resources>
+    <style name="Theme.HitungPengeluaran" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#BB86FC</item>
+        <item name="colorPrimaryVariant">#3700B3</item>
+        <item name="colorOnPrimary">#000000</item>
+        <item name="colorSecondary">#03DAC6</item>
+        <item name="colorSecondaryVariant">#018786</item>
+        <item name="colorOnSecondary">#000000</item>
+        <item name="colorSurface">#1E1E1E</item>
+        <item name="colorOnSurface">#F5F5F5</item>
+        <item name="colorBackground">#121212</item>
+        <item name="colorOnBackground">#E0E0E0</item>
+        <item name="colorButton">#7655A0</item>
+        <item name="colorOnButton">#000000</item>
+        <item name="colorCard">#1E1E1E</item>
+        <item name="colorOnCard">#F5F5F5</item>
+        <item name="colorFAB">#6A81FF</item>
+        <item name="colorOnFAB">#000000</item>
+        <item name="colorError">#CF6679</item>
+        <item name="colorOnError">#000000</item>
+    </style>
+    <style name="CustomTextAppearance" parent="TextAppearance.MaterialComponents.Body1">
+        <item name="textAllCaps">false</item>
+        <item name="android:textColor">?attr/colorOnSurface</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:fontFamily">sans-serif</item>
+    </style>
+</resources>
