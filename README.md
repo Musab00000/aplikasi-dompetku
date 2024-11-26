@@ -4,10 +4,12 @@ Aplikasi Catatan Keuangan Dompetku dengan Android Studio
 Oleh : Musab Faqihuddin (23050974042)
        Ibtihal Althea (23050974043)
        M.Firman (23050974077)
-
+       
 *****credit and backlink to [Azhar Rivaldi](https://rivaldi48.blogspot.com/)***
 ## 📄 License
 
+gambar prototype dari aplikasi
+   ![alt text](https://github.com/Musab00000/aplikasi-dompetku/blob/main/PROTOYPE.png?raw=true)
 ```
 Copyright (C) Azhar Rivaldi
 
